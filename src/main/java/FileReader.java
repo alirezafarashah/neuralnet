@@ -13,7 +13,7 @@ import java.util.stream.Stream;
 public class FileReader {
 
     public static void main(String[] args) throws IOException {
-        run(preProcess("اینترنت خر"));
+        run(preProcess("شارژ بخر"));
 
     }
 
